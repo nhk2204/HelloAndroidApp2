@@ -10,13 +10,9 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.nhk2204.myapplication.MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!" />
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello Android!!"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello Android!!!"/>
 </LinearLayout>
